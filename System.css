@@ -1,0 +1,18 @@
+<style>
+body { background : powderblue; }
+.border {
+  border-radius: collapse;
+  border-top: 3px solid blue;
+}
+.table th {
+  color: green;
+  background: #f0f6f9;
+  width:190px;
+}
+
+.table th {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+</style>
