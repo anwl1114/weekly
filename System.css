@@ -1,13 +1,13 @@
 <style>
 body { background : powderblue; }
-.border {
-  border-radius: collapse;
+#line {
+  border-collapse: collapse;
   border-top: 3px solid blue;
 }
 .table th {
   color: green;
   background: #f0f6f9;
-  width:190px;
+  width:250px;
 }
 
 .table th {
@@ -16,3 +16,4 @@ body { background : powderblue; }
 }
 
 </style>
+
